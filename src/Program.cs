@@ -11,6 +11,7 @@ namespace GitPlayground
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github!");
+            Console.ReadLine();
         }
     }
 }
