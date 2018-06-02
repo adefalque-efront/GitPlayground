@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitPlayground.Contacts
 {
+    // A class to hold contact information
     public class Contact
     {
         public string ID { get; set; }
