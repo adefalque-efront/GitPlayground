@@ -19,6 +19,8 @@ namespace GitPlayground.Contacts
 
         public string Job { get; set; }
 
+        public DateTime Birthday { get; set; }
+
         public Company Company { get; set; }
     }
 }
